@@ -9,7 +9,7 @@ var Hunter = require('./lib/hunter');
  * Instantiate new `hunter`.
  */
 
-var filters = [];
+var filters = ['javascript'];
 var rate;
 var lag;
 var hunter = new Hunter(filters, rate, lag);
