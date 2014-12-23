@@ -1,8 +1,6 @@
 Dodo-hunter (scan)
 ============
 
-![](http://www.legendsofamerica.com/photos-oldwest/OldTrapper.gif)
-
 > Add accounts whose tweets match a filter to your Dodo list. This service scans the twitter stream and adds matches to MongoDB.
 
 Related services:
