@@ -1,12 +1,12 @@
 {
-  "name": "Dodo-hunter",
+  "name": "Dodo-hunter-scan",
   "description": "Add accounts whose tweets match a filter to your Dodo list.",
   "version": "0.0.1",
   "author": "Andy Jiang",
-  "main": "./hunter.js",
+  "main": "./lib/hunter.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lambtron/dodo-hunter"
+    "url": "https://github.com/lambtron/dodo-hunter-scan"
   },
   "engines": {
     "node": "^0.11.14",

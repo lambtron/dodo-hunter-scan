@@ -1,1 +1,1 @@
-clock: node --harmony clock.js
+web: node --harmony main.js

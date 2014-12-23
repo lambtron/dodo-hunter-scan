@@ -1,14 +1,15 @@
-Dodo-hunter
+Dodo-hunter (scan)
 ============
 
 ![](http://www.legendsofamerica.com/photos-oldwest/OldTrapper.gif)
 
-> Add accounts whose tweets match a filter to your Dodo list.
+> Add accounts whose tweets match a filter to your Dodo list. This service scans the twitter stream and adds matches to MongoDB.
 
 Related services:
 - [server](https://github.com/lambtron/dodo)
 - [trapper](https://github.com/lambtron/dodo-trapper)
 - [unfollow](https://github.com/lambtron/dodo-unfollow)
+- [hunter-follow](https://github.com/lambtron/dodo-hunter-follow)
 
 ## License (MIT)
 
